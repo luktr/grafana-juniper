@@ -4,3 +4,5 @@ Scripts for reading data from interfaces deviaces like
 - Dell
 - Cisco
 - Other...
+
+Instruction will be added, soon.
