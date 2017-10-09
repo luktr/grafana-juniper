@@ -1,7 +1,7 @@
 #!/bin/bash
 # Traffic reader from snmp interface index for juniper devices
 # 2017 Łukasz Trąbiński <lukasz@trabinski.net>
-# Version 2.0
+# Version 1.0
 
 
 #for debug
