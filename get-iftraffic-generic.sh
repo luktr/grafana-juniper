@@ -1,5 +1,5 @@
 #!/bin/bash
-# Traffic reader from snmp interface index for Dell devices
+# Traffic reader from snmp interface index for generic snmp devices
 # 2017 Łukasz Trąbiński <lukasz@trabinski.net>
 # Version 1.0
 
